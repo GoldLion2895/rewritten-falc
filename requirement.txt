@@ -38,3 +38,4 @@ urllib3==1.26.5
 Wand==0.6.6
 yarl==1.6.3
 youtube-dl==2021.5.16
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
