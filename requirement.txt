@@ -20,7 +20,7 @@ mpmath==1.2.1
 multidict==5.1.0
 numpy==1.20.3
 olefile==0.46
-opencv-python==4.5.2.52
+opencv-python==4.8.1.78.52
 Pillow==8.1.0
 prsaw==0.3.1
 psutil==5.8.0
