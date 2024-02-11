@@ -9,7 +9,7 @@ discord-ext-menus==1.1
 discord-py-slash-command==1.1.2
 discord.py==1.7.2
 discordlists.py==1.1.1
-dnspython==2.1.0
+dnspython==2.6.0rc1
 h11==0.12.0
 httpcore==0.12.3
 httpx==0.16.1
